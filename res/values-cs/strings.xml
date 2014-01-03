@@ -1,0 +1,83 @@
+<resources>
+
+    <string name="app_name">NxtClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Nastavení</string>
+    <string name="title_activity_main">NxtClient</string>
+
+    <string name="change">Změnit</string>
+    <string name="change_node">Změnit uzel</string>
+    <string name="select_node">Vybrat uzel</string>
+    <string name="select">Vybrat</string>
+    <string name="node">Uzel</string>
+    <string name="default_ip">0.0.0.0</string>
+    
+    <string name="accounts">Účty</string>
+    <string name="addresses">Adresy</string>
+    <string name="settings">Nastavení</string>
+    <string name="tools">Nástroje</string>
+    
+    <string name="add">Přidat</string>
+    <string name="add_account">Přidat účet</string>
+    <string name="create">Vytvořit</string>
+    <string name="account_list_empty_msg">Seznam je prázdný, můžete přidat existující účet nebo vytvožit nový.</string>
+    <string name="address_list_empty_msg">Seznam je prázdný, stiskněte tlačítko níže pro přidání.</string>
+    
+    <string name="transactions">Transakce</string>
+    <string name="edit">Upravit</string>
+    <string name="remove">Odebrat</string>
+
+    <string name="account_id">Účet</string>
+    <string name="account_tag">Pojmenování účtu (volitelně)</string>
+
+    <string name="confirm">Potvrdit</string>
+    <string name="back">Zpět</string>
+    
+    <string name="in_development">Ve vývoji....</string>
+    <string name="unlock">Odemknout účet</string>
+    <string name="unlock_msg">Odemknout účet pomocí tenkého klienta (není bezpečné)</string>
+    <string name="node_ip">IP/doména uzlu</string>
+    <string name="node_input_msg">Výchozí uzel 121.199.12.227 je jen pro test. Změňte na váš bezpečný uzel.</string>
+    <string name="ip_format_error">Špatně zadná IP adresa!</string>
+    
+    <string name="send">Odeslat</string>
+    <string name="waiting">Čekám....</string>
+    <string name="send_nxt">Odeslat Nxt</string>
+    
+    <string name="create_account">Vytvořit účet</string>
+    <string name="secret_phrase">Tajná fráze</string>
+    <string name="secret_phrase_tips">Bezpečná delká je alespoň 30 znaků</string>
+    <string name="secret_phrase_refuse">Musíte zadat více než 30 znaků. Jinak je to snadný cíl pro hackery.</string>
+    <string name="secret_phrase_warning">Varování: pokud zapomenete vaši tajnou frázi, nedostanete se do účtu. Už nikdy!.</string>
+    <string name="visable">Zobrazit</string>
+    
+    <string name="send_account">Odesílatel</string>
+    <string name="receive_account">Příjemce</string>
+    <string name="choose">Vybrat</string>
+    <string name="amount">Částka</string>
+    
+    <string name="success">Úspěšné</string>
+    <string name="failed">Chyba!</string>
+    <string name="select_account">Vybrat účet</string>
+    <string name="save_to_address">Uložit do adresáře</string>
+    <string name="aliases">Pojmenování</string>
+    <string name="alias">Pojmenování</string>
+    <string name="aliases_list_title">Pojmenování v tomto účtu:</string>
+
+    <string name="add_by_alias">Přidat pojmenováním</string>
+    <string name="add_by_number">Přidat číslo účtu</string>
+
+    <string name="alias_failed">Přidání pojmenováním selhalo!</string>
+    <string name="alias_not_exist">Pojmenování neexistuje!</string>
+    <string name="alias_no_acc">Url není číslo účtu!</string>
+    
+    <string name="show_price">Aktuální cena</string>
+    <string name="nxt_price">Cena Nxt</string>
+    <string name="news">Novinky</string>
+    <string name="loading">Načítám....</string>
+    <string name="news_title">Více novinek na http://info.nxtcrypto.org/</string>
+    
+    <string name="not_enough_funds">Nedostatek prostředků!</string>
+    <string name="acc_secret_unmatch">Číslo účtu neodpovídá tajné frázi!</string>
+    
+</resources>
